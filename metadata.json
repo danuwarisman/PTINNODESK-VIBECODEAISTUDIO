@@ -1,0 +1,6 @@
+{
+  "name": "PT Innodesk - Solusi & Ekosistem IoT Industri",
+  "description": "Website resmi company profile PT Innodesk: penyedia solusi Internet of Things (IoT) terintegrasi untuk manufaktur, agrikultur, energi, dan smart building.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
